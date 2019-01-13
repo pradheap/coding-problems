@@ -1,6 +1,6 @@
 import unittest
 
-from linked_list_reverse.linked_list_reverse import reverse
+from linked_list_reverse.source import reverse
 
 class Node:
     def __init__(self, data, next=None):

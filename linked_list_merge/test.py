@@ -1,6 +1,6 @@
 import unittest
 
-from linked_list_merge.linked_list_merge import merge_lists, Node
+from linked_list_merge.source import merge_lists, Node
 
 def linked_list_to_list(head):
     list = []

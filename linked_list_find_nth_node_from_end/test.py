@@ -1,7 +1,7 @@
 import unittest
 
-from linked_list_find_nth_node_from_end\
-    .linked_list_find_nth_node_from_end import find_nth_node_from_end
+from linked_list_find_nth_node_from_end.source \
+    import find_nth_node_from_end
 
 class Node:
     def __init__(self, data, next=None):

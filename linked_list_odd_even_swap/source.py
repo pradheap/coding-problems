@@ -15,6 +15,6 @@ def odd_even_swap(head):
 
         even.next = odd.next
         even = even.next
-    odd.next = first_even
 
+    odd.next = first_even
     return head
